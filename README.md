@@ -22,7 +22,7 @@ yolov5
 
 数据集路径，模型选择等一些常规参数都在这设置
 
-2.数据集可以放在dataset/kitti文件夹内
+2.数据集可以放在dataset/kitti文件夹内，新建一个dataset/kitti这样的文件路径
 
 3.在 `src/config/cfg`中有模型的配置文件，可以选则多个模型，
 
